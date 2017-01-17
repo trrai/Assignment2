@@ -45,7 +45,6 @@ print(days.to.break)
 
 #Define a function called MakeBirthdayIntro
 
-#ASK IF THIS IS RIGHT !
 MakeBirthdayIntro<-function(name,age,bday){
   N<-bday-today
   NEW.AGE<-age+1

@@ -5,17 +5,16 @@ This repo contains practice R code, created as part of an assignment for the [Te
 The below questions should be answered regarding your assignment submission!
 
 ##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> Answer goes here!
+I did not receive any help on this assignment.
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
-> Answer goes here!
+I took about 3 hours across a few days to complete this assignment
 
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
-> Answer goes here!
+I'd say this was about a 5/10 on difficulty.
 
 
 ##### Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
-> Answer goes here!
-
+The last problem about squares was a little bit confusing with it's description but everything was great besides that!
